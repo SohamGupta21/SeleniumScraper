@@ -1,0 +1,2003 @@
+[
+    {
+        "title": "Experimentation and 5G KPI measurements in the 5GENESIS platforms",
+        "authors": [
+            "Georgios Xylouris",
+            "Maria Christopoulou",
+            "Harilaos Koumaras",
+            "Michail-Alexandros Kourtis",
+            "Marc Emmelmann",
+            "Dionysia Triantafyllopoulou",
+            "Yogaratnam Rahulan",
+            "Ivan Gonzalez Muriel",
+            "Almudena Diaz Zayas",
+            "Eneko Atxutegi",
+            "Georgios Gardikis",
+            "Dimitrios Lioprasitis",
+            "Dimitris Tsolkas",
+            "Panagiotis Kostakis",
+            "Erik Aumayr",
+            "Anne-Marie Bosneag",
+            "Ozgu Alay",
+            "Valerio Frascolla",
+            "Anna Brunstrom"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3472776"
+    },
+    {
+        "title": "Improving railway track coverage with mmWave bridges: A Measurement Campaign",
+        "authors": [
+            "Adrian Schumacher",
+            "Nima Jamaly",
+            "Ruben Merz",
+            "Andreas Burg"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3472774"
+    },
+    {
+        "title": "Learning from large-scale commercial networks: challenges and knowledge extraction towards machine learning use cases",
+        "authors": [
+            "Roman Zhohov",
+            "Alexandros Palaios",
+            "Philipp Geuer"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3472773"
+    },
+    {
+        "title": "Extending network slice management to the end-host",
+        "authors": [
+            "Alexander Rabitsch",
+            "George Xilouris",
+            "Themistoklis Anagnostopoulos",
+            "Karl-Johan Grinnemo",
+            "Thanos Sarlas",
+            "Anna Brunstrom",
+            "\u00d6zg\u00fc Alay",
+            "Giuseppe Caso"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3472775"
+    },
+    {
+        "title": "Case for 5G-aware video streaming applications",
+        "authors": [
+            "Eman Ramadan",
+            "Arvind Narayanan",
+            "Udhaya Kumar Dayalan",
+            "Rostand A. K. Fezeu",
+            "Feng Qian",
+            "Zhi-Li Zhang"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3474036"
+    },
+    {
+        "title": "Hunting BGP zombies in the wild",
+        "authors": [
+            "Porapat Ongkanchana",
+            "Romain Fontugne",
+            "Hiroshi Esaki",
+            "Job Snijders",
+            "Emile Aben"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472315"
+    },
+    {
+        "title": "Meta-peering: towards automated ISP peer selection",
+        "authors": [
+            "Prasun Kanti Dey",
+            "Shahzeb Mustafa",
+            "Murat Yuksel"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472325"
+    },
+    {
+        "title": "Towards cross-layer telemetry",
+        "authors": [
+            "Justin Iurman",
+            "Frank Brockners",
+            "Benoit Donnet"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472313"
+    },
+    {
+        "title": "L, Q, R, and T: which spin bit cousin is here to stay?",
+        "authors": [
+            "Ike Kunze",
+            "Klaus Wehrle",
+            "Jan R\u00fcth"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472319"
+    },
+    {
+        "title": "On the evolution of internet flow characteristics",
+        "authors": [
+            "Simon Bauer",
+            "Benedikt Jaeger",
+            "Fabian Helfert",
+            "Philippe Barias",
+            "Georg Carle"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472321"
+    },
+    {
+        "title": "Detecting consumer IoT devices through the lens of an ISP",
+        "authors": [
+            "Said Jawad Saidi",
+            "Anna Maria Mandalari",
+            "Hamed Haddadi",
+            "Daniel J. Dubois",
+            "David Choffnes",
+            "Georgios Smaragdakis",
+            "Anja Feldmann"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472885"
+    },
+    {
+        "title": "Adaptive cheapest path first scheduling in a transport-layer multi-path tunnel context",
+        "authors": [
+            "Marcus Pieska",
+            "Alexander Rabitsch",
+            "Anna Brunstrom",
+            "Andreas Kassler",
+            "Markus Amend"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472316"
+    },
+    {
+        "title": "Leveraging the 0-RTT convert protocol to improve wi-fi/cellular convergence",
+        "authors": [
+            "Matthieu Baerts",
+            "Nicolas Keukeleire",
+            "Olivier Bonaventure"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472317"
+    },
+    {
+        "title": "Cooperative performance enhancement using QUIC tunneling in 5G cellular networks",
+        "authors": [
+            "Zsolt Kr\u00e4mer",
+            "Mirja K\u00fchlewind",
+            "Marcus Ihlar",
+            "Attila Mih\u00e1ly"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472320"
+    },
+    {
+        "title": "CCID5: an implementation of the BBR congestion control algorithm for DCCP and its impact over multi-path scenarios",
+        "authors": [
+            "Nathalie Romo Moreno",
+            "Markus Amend",
+            "Anna Brunstrom",
+            "Andreas Kassler",
+            "Veselin Rakocevic"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472322"
+    },
+    {
+        "title": "Toward greater scavenger congestion control deployment: implementations and interfaces",
+        "authors": [
+            "Tong Meng",
+            "Christopher Cai",
+            "Brighten Godfrey",
+            "Michael Schapira"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472323"
+    },
+    {
+        "title": "Encryption without centralization: distributing DNS queries across recursive resolvers",
+        "authors": [
+            "Austin Hounsel",
+            "Paul Schmitt",
+            "Kevin Borgolte",
+            "Nick Feamster"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472318"
+    },
+    {
+        "title": "Institutional privacy risks in sharing DNS data",
+        "authors": [
+            "Basileal Imana",
+            "Aleksandra Korolova",
+            "John Heidemann"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472324"
+    },
+    {
+        "title": "DNS-over-TCP considered vulnerable",
+        "authors": [
+            "Tianxiang Dai",
+            "Haya Shulman",
+            "Michael Waidner"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472884"
+    },
+    {
+        "title": "Manus manum lavat: media clients and servers cooperating with common media client/server data",
+        "authors": [
+            "Ali C. Begen"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472886"
+    },
+    {
+        "title": "Tools for disambiguating RFCs",
+        "authors": [
+            "Jane Yen",
+            "Ramesh Govindan",
+            "Barath Raghavan"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472314"
+    },
+    {
+        "title": "Enabling Privacy-Aware Zone Exchanges Among Authoritative and Recursive DNS Servers",
+        "authors": [
+            "Nikos Kostopoulos",
+            "Dimitris Kalogeras",
+            "Vasilis Maglaris"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406665"
+    },
+    {
+        "title": "Inferring the Deployment of Inbound Source Address Validation Using DNS Resolvers",
+        "authors": [
+            "Maciej Korczy\u0144ski",
+            "Yevheniya Nosyk",
+            "Qasim Lone",
+            "Marcin Skwarek",
+            "Baptiste Jonglez",
+            "Andrzej Duda"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406668"
+    },
+    {
+        "title": "Limiting the Power of RPKI Authorities",
+        "authors": [
+            "Kris Shrishak",
+            "Haya Shulman"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406674"
+    },
+    {
+        "title": "Withdrawal Symptoms: Filtering of Announcements from a Route Collector System",
+        "authors": [
+            "Stephen D. Strowes",
+            "Ren\u00e9 Wilhelm",
+            "Emile Aben"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406673"
+    },
+    {
+        "title": "Toward Programmable Interdomain Routing",
+        "authors": [
+            "Qiao Xiang",
+            "Jensen Zhang",
+            "Franck Le",
+            "Y. Richard Yang"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406672"
+    },
+    {
+        "title": "Parsing Protocol Standards to Parse Standard Protocols",
+        "authors": [
+            "Stephen McQuistin",
+            "Vivian Band",
+            "Dejice Jacob",
+            "Colin Perkins"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406671"
+    },
+    {
+        "title": "NeST: Network Stack Tester",
+        "authors": [
+            "Shanthanu S. Rai",
+            "Narayan G.",
+            "Dhanasekhar M.",
+            "Leslie Monis",
+            "Mohit P. Tahiliani"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406670"
+    },
+    {
+        "title": "Evaluating the Impact of Path Brokenness on TCP Options",
+        "authors": [
+            "Korian Edeline",
+            "Benoit Donnet"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406662"
+    },
+    {
+        "title": "A Congestion Control Independent L4S Scheduler",
+        "authors": [
+            "Szilveszter N\u00e1das",
+            "Gerg\u0151 Gombos",
+            "Ferenc Fejes",
+            "S\u00e1ndor Laki"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406669"
+    },
+    {
+        "title": "Multi-Domain Information Exposure using ALTO: The Good, the Bad and the Solution",
+        "authors": [
+            "Danny Lachos",
+            "Christian Rothenberg",
+            "Qiao Xiang",
+            "Y. Richard Yang",
+            "B\u00f6rje Ohlman",
+            "Sabine Randriamasy",
+            "Luis M. Contreras",
+            "Kai Gao"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406667"
+    },
+    {
+        "title": "A novel hybrid distributed-routing and SDN solution for Traffic Engineering",
+        "authors": [
+            "Stewart Bryant",
+            "Uma Chunduri",
+            "Toerless Eckert",
+            "Alexander Clemm",
+            "Luis M. Contreras",
+            "Patricia D\u00edez Cano"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406666"
+    },
+    {
+        "title": "Debugging QUIC and HTTP/3 with qlog and qvis",
+        "authors": [
+            "Robin Marx",
+            "Maxime Piraux",
+            "Peter Quax",
+            "Wim Lamotte"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406663"
+    },
+    {
+        "title": "On the Accuracy of Country-Level IP Geolocation",
+        "authors": [
+            "Ioana Livadariu",
+            "Thomas Dreibholz",
+            "Anas Saeed Al-Selwi",
+            "Haakon Bryhni",
+            "Olav Lysne",
+            "Steinar Bj\u00f8rnstad",
+            "Ahmed Elmokashfi"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406664"
+    },
+    {
+        "title": "A performance perspective on web optimized protocol stacks: TCP+TLS+HTTP/2 vs. QUIC",
+        "authors": [
+            "Konrad Wolsing",
+            "Jan R\u00fcth",
+            "Klaus Wehrle",
+            "Oliver Hohlfeld"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341123"
+    },
+    {
+        "title": "Performance measurements of QUIC communications",
+        "authors": [
+            "Fabio Bulgarella",
+            "Mauro Cociglio",
+            "Giuseppe Fioccola",
+            "Guido Marchetto",
+            "Riccardo Sisto"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341127"
+    },
+    {
+        "title": "Who is answering my queries: understanding and characterizing interception of the DNS resolution path",
+        "authors": [
+            "Baojun Liu",
+            "Chaoyi Lu",
+            "Haixin Duan",
+            "Ying Liu",
+            "Zhou Li",
+            "Shuang Hao",
+            "Min Yang"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341122"
+    },
+    {
+        "title": "Oblivious DNS: practical privacy for DNS queries: published in PoPETS 2019",
+        "authors": [
+            "Paul Schmitt",
+            "Anne Edmundson",
+            "Allison Mankin",
+            "Nick Feamster"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341128"
+    },
+    {
+        "title": "Analyzing the costs (and benefits) of DNS, DoT, and DoH for the modern web",
+        "authors": [
+            "Austin Hounsel",
+            "Kevin Borgolte",
+            "Paul Schmitt",
+            "Jordan Holland",
+            "Nick Feamster"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341129"
+    },
+    {
+        "title": "Securing IPv6 neighbor discovery and SLAAC in access networks through SDN",
+        "authors": [
+            "Daniel Nelle",
+            "Thomas Scheffler"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341132"
+    },
+    {
+        "title": "Towards core-stateless fairness on multiple timescales",
+        "authors": [
+            "Szilveszter N\u00e1das",
+            "Gerg\u0151 Gombos",
+            "Ferenc Fejes",
+            "S\u00e1ndor Laki"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341124"
+    },
+    {
+        "title": "What time is it: managing time in the internet",
+        "authors": [
+            "Sathiya Kumaran Mani",
+            "Paul Barford",
+            "Ramakrishnan Durairajan",
+            "Joel Sommers"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341125"
+    },
+    {
+        "title": "What can you learn from an IP?",
+        "authors": [
+            "Simran Patil",
+            "Nikita Borisov"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341133"
+    },
+    {
+        "title": "Can we containerize internet measurements?",
+        "authors": [
+            "Chris Misa",
+            "Sudarsun Kannan",
+            "Ramakrishnan Durairajan"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341130"
+    },
+    {
+        "title": "Supporting multi-domain Use cases with ALTO",
+        "authors": [
+            "Danny Lachos",
+            "Christian Rothenberg",
+            "Qiao Xiang",
+            "Y. Richard Yang",
+            "B\u00f6rje Ohlman",
+            "Sabine Randriamasy",
+            "Farni Boten",
+            "Luis M. Contreras"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341126"
+    },
+    {
+        "title": "mmb: flexible high-speed userspace middleboxes",
+        "authors": [
+            "Korian Edeline",
+            "Justin Iurman",
+            "Cyril Soldani",
+            "Benoit Donnet"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341121"
+    },
+    {
+        "title": "Checking-in on network functions",
+        "authors": [
+            "Zeeshan Lakhani",
+            "Heather Miller"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341131"
+    },
+    {
+        "title": "Measuring Adoption of Security Additions to the HTTPS Ecosystem",
+        "authors": [
+            "Quirin Scheitle",
+            "Taejoong Chung",
+            "Johanna Amann",
+            "Oliver Gasser",
+            "Lexi Brent",
+            "Georg Carle",
+            "Ralph Holz",
+            "Jens Hiller",
+            "Johannes Naab",
+            "Roland van Rijswijk-Deij",
+            "Oliver Hohlfeld",
+            "Dave Choffnes",
+            "Alan Mislove"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232756"
+    },
+    {
+        "title": "Push Away Your Privacy: Precise User Tracking Based on TLS Client Certificate Authentication",
+        "authors": [
+            "Matthias Wachs",
+            "Quirin Scheitle",
+            "Georg Carle"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232763"
+    },
+    {
+        "title": "Cloud Strife: Mitigating the Security Risks of Domain-Validated Certificates",
+        "authors": [
+            "Kevin Borgolte",
+            "Tobias Fiebig",
+            "Shuang Hao",
+            "Christopher Kruegel",
+            "Giovanni Vigna"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232859"
+    },
+    {
+        "title": "Studying TLS Usage in Android Apps",
+        "authors": [
+            "Abbas Razaghpanah",
+            "Arian Akhavan Niaki",
+            "Narseo Vallina-Rodriguez",
+            "Srikanth Sundaresan",
+            "Johanna Amann",
+            "Philippa Gill"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232779"
+    },
+    {
+        "title": "ARTEMIS: Neutralizing BGP Hijacking within a Minute",
+        "authors": [
+            "Pavlos Sermpezis",
+            "Vasileios Kotronis",
+            "Petros Gigis",
+            "Xenofontas Dimitropoulos",
+            "Danilo Cicalese",
+            "Alistair King",
+            "Alberto Dainotti"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3234554"
+    },
+    {
+        "title": "Towards a Rigorous Methodology for Measuring Adoption of RPKI Route Validation and Filtering",
+        "authors": [
+            "Andreas Reuter",
+            "Randy Bush",
+            "Italo Cunha",
+            "Ethan Katz-Bassett",
+            "Thomas C. Schmidt",
+            "Matthias W\u00e4hlisch"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232771"
+    },
+    {
+        "title": "Beyond Binary Failures in Networks",
+        "authors": [
+            "Rachee Singh",
+            "Manya Ghobadi",
+            "Klaus-Tycho Foerster",
+            "Mark Filer",
+            "Phillipa Gill"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232759"
+    },
+    {
+        "title": "Lights Out: Climate Change Risk to Internet Infrastructure",
+        "authors": [
+            "Ramakrishnan Durairajan",
+            "Carol Barford",
+            "Paul Barford"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232775"
+    },
+    {
+        "title": "Comments On DNS Robustness",
+        "authors": [
+            "Mark Allman"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232773"
+    },
+    {
+        "title": "Preventing (Network) Time Travel with Chronos",
+        "authors": [
+            "Neta Rozen Schiff",
+            "Michael Schapira",
+            "Danny Dolev",
+            "Omer Deutsch"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232766"
+    },
+    {
+        "title": "TCP Congestion Signatures",
+        "authors": [
+            "Srikanth Sundaresan",
+            "Amogh Dhamdhere",
+            "Mark Allman",
+            "kc claffy"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232760"
+    },
+    {
+        "title": "Copa: Practical Delay-Based Congestion Control for the Internet",
+        "authors": [
+            "Venkat Arun",
+            "Hari Balakrishnan"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232783"
+    },
+    {
+        "title": "Why (and How) Networks Should Run Themselves",
+        "authors": [
+            "Nick Feamster",
+            "Jennifer Rexford"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3234555"
+    },
+    {
+        "title": "Semi-Oblivious Traffic Engineering with SMORE",
+        "authors": [
+            "Praveen Kumar",
+            "Yang Yuan",
+            "Chris Yu",
+            "Nate Foster",
+            "Robert Kleinberg",
+            "Petr Lapukhov",
+            "Chiun Lin Lim",
+            "Robert Soul\u00e9"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232781"
+    },
+    {
+        "title": "An ISP-Scale Deployment of TapDance",
+        "authors": [
+            "Sergey Frolov",
+            "Eric Wustrow",
+            "Fred Douglas",
+            "Will Scott",
+            "Allison McDonald",
+            "Benjamin VanderSloot",
+            "Rod Hynes",
+            "Adam Kruger",
+            "Michalis Kallitsis",
+            "David G. Robinson",
+            "Steve Schultze",
+            "Nikita Borisov",
+            "J. Alex Halderman"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232787"
+    },
+    {
+        "title": "Characterizing the Nature and Dynamics of Tor Exit Blocking",
+        "authors": [
+            "Rachee Singh",
+            "Rishab Nithyanand",
+            "Sadia Afroz",
+            "Paul Pearce",
+            "Michael Carl Tschantz",
+            "Phillipa Gill",
+            "Vern Paxson"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232786"
+    },
+    {
+        "title": "CommunityWatch: The Swiss-Army Knife of BGP Anomaly Detection",
+        "authors": [
+            "Vasileios Giotsas"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232858"
+    },
+    {
+        "title": "Restructuring Endpoint Congestion Control",
+        "authors": [
+            "Akshay Narayan",
+            "Frank Cangialosi",
+            "Deepti Raghavan",
+            "Prateesh Goyal",
+            "Srinivas Narayana",
+            "Radhika Mittal",
+            "Mohammad Alizadeh",
+            "Hari Balakrishnan"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232770"
+    },
+    {
+        "title": "A Fine-grained and Transparent Congestion Control Enforcement Scheme",
+        "authors": [
+            "Yuxiang Zhang",
+            "Lin Cui",
+            "Fung Po Tso",
+            "Quanlong Guan",
+            "Weijia Jia",
+            "Jipeng Zhou"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232778"
+    },
+    {
+        "title": "Picking a Partner: A Fair Blockchain Based Scoring Protocol for Autonomous Systems",
+        "authors": [
+            "Yousef Alowayed",
+            "Marco Canini",
+            "Pedro Marcos",
+            "Marco Chiesa",
+            "Marinho Barcellos"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232785"
+    },
+    {
+        "title": "Wireless Edge Network for Sustainable Rural Community Networks",
+        "authors": [
+            "Adisorn Lertsinsrubtavee",
+            "Nunthaphat Weshsuwannarugs",
+            "Nisarat Tansakul",
+            "Attaphongse Taparugssanagorn",
+            "Kanchana Kanchanasut"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232782"
+    },
+    {
+        "title": "Is CoAP Congestion Safe?",
+        "authors": [
+            "Ilpo J\u00e4rvinen",
+            "Iivo Raitahila",
+            "Zhen Cao",
+            "Markku Kojo"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232857"
+    },
+    {
+        "title": "DeadBolt: Securing IoT Deployments",
+        "authors": [
+            "Ronny Ko",
+            "James Mickens"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232774"
+    },
+    {
+        "title": "Behind the scenes: what device benchmarks can tell us",
+        "authors": [
+            "Simon Bauer",
+            "Daniel Raumer",
+            "Paul Emmerich",
+            "Georg Carle"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232776"
+    },
+    {
+        "title": "Building a Threshold Cryptographic Distributed HSM with Docker Containers",
+        "authors": [
+            "Caterina Munoz",
+            "Francisco Montoto",
+            "Francisco Cifuentes",
+            "Javier Bustos-Jim\u00e9nez"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232761"
+    },
+    {
+        "title": "Metrics for access network selection",
+        "authors": [
+            "Theresa Enghardt",
+            "Philipp S. Tiesel",
+            "Anja Feldmann"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232764"
+    },
+    {
+        "title": "Practical Challenge-Response for DNS",
+        "authors": [
+            "Rami Al-Dalky",
+            "Michael Rabinovich",
+            "Mark Allman"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232765"
+    },
+    {
+        "title": "Elasticity Detection: A Building Block for Delay-Sensitive Congestion Control",
+        "authors": [
+            "Prateesh Goyal",
+            "Akshay Narayan",
+            "Frank Cangialosi",
+            "Deepti Raghavan",
+            "Srinivas Narayana",
+            "Mohammad Alizadeh",
+            "Hari Balakrishnan"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232772"
+    },
+    {
+        "title": "RobE: Robust Connection Establishment for Multipath TCP",
+        "authors": [
+            "Markus Amend",
+            "Veselin Rakocevic",
+            "Andreas Philipp Matz",
+            "Eckard Bogenfeld"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232762"
+    },
+    {
+        "title": "Measuring Web Speed From Passive Traces",
+        "authors": [
+            "Martino Trevisan",
+            "Idilio Drago",
+            "Marco Mellia"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232780"
+    },
+    {
+        "title": "Measurement Vantage Point Selection Using A Similarity Metric",
+        "authors": [
+            "Thomas Holterbach",
+            "Emile Aben",
+            "Cristel Pelsser",
+            "Randy Bush",
+            "Laurent Vanbever"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106334"
+    },
+    {
+        "title": "Characterizing User-to-User Connectivity with RIPE Atlas",
+        "authors": [
+            "Petros Gigis",
+            "Vasileios Kotronis",
+            "Emile Aben",
+            "Stephen D. Strowes",
+            "Xenofontas Dimitropoulos"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106332"
+    },
+    {
+        "title": "CheesePi: Research, Results, and the Regulator",
+        "authors": [
+            "Ian Marsh"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106337"
+    },
+    {
+        "title": "copycat: Testing Differential Treatment of New Transport Protocols in the Wild",
+        "authors": [
+            "Korian Edeline",
+            "Mirja K\u00fchlewind",
+            "Brian Trammell",
+            "Benoit Donnet"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106330"
+    },
+    {
+        "title": "Tracking transport-layer evolution with PATHspider",
+        "authors": [
+            "Brian Trammell",
+            "Mirja K\u00fchlewind",
+            "Piet De Vaere",
+            "Iain R. Learmonth",
+            "Gorry Fairhurst"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106336"
+    },
+    {
+        "title": "Take your own share of the PIE",
+        "authors": [
+            "S\u00e1ndor Laki",
+            "Gerg\u0151 Gombos",
+            "Szilveszter N\u00e1das",
+            "Zolt\u00e1n Tur\u00e1nyi"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106333"
+    },
+    {
+        "title": "A NEAT Way to Browse the Web",
+        "authors": [
+            "Felix Weinrank",
+            "Karl-Johan Grinnemo",
+            "Zdravko Bozakov",
+            "Anna Brunstrom",
+            "Thomas Dreibholz",
+            "Gorry Fairhurst",
+            "Per Hurtig",
+            "Naeem Khademi",
+            "Michael T\u00fcxen"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106335"
+    },
+    {
+        "title": "Implementing IPv6 Segment Routing in the Linux Kernel",
+        "authors": [
+            "David Lebrun",
+            "Olivier Bonaventure"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106329"
+    },
+    {
+        "title": "Manage resource-constrained IoT devices through dynamically generated and deployed YANG models",
+        "authors": [
+            "Thomas Scheffler",
+            "Olaf Bonne\u00df"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106331"
+    },
+    {
+        "title": "No domain left behind: is Let's Encrypt democratizing encryption?",
+        "authors": [
+            "Maarten Aertsen",
+            "Maciej Korczy\u0144ski",
+            "Giovane C. M. Moura",
+            "Samaneh Tajalizadehkhoob",
+            "Jan van den Berg"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106338"
+    },
+    {
+        "title": "Experimentation and 5G KPI measurements in the 5GENESIS platforms",
+        "authors": [
+            "Georgios Xylouris",
+            "Maria Christopoulou",
+            "Harilaos Koumaras",
+            "Michail-Alexandros Kourtis",
+            "Marc Emmelmann",
+            "Dionysia Triantafyllopoulou",
+            "Yogaratnam Rahulan",
+            "Ivan Gonzalez Muriel",
+            "Almudena Diaz Zayas",
+            "Eneko Atxutegi",
+            "Georgios Gardikis",
+            "Dimitrios Lioprasitis",
+            "Dimitris Tsolkas",
+            "Panagiotis Kostakis",
+            "Erik Aumayr",
+            "Anne-Marie Bosneag",
+            "Ozgu Alay",
+            "Valerio Frascolla",
+            "Anna Brunstrom"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3472776"
+    },
+    {
+        "title": "Improving railway track coverage with mmWave bridges: A Measurement Campaign",
+        "authors": [
+            "Adrian Schumacher",
+            "Nima Jamaly",
+            "Ruben Merz",
+            "Andreas Burg"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3472774"
+    },
+    {
+        "title": "Learning from large-scale commercial networks: challenges and knowledge extraction towards machine learning use cases",
+        "authors": [
+            "Roman Zhohov",
+            "Alexandros Palaios",
+            "Philipp Geuer"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3472773"
+    },
+    {
+        "title": "Extending network slice management to the end-host",
+        "authors": [
+            "Alexander Rabitsch",
+            "George Xilouris",
+            "Themistoklis Anagnostopoulos",
+            "Karl-Johan Grinnemo",
+            "Thanos Sarlas"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3472775"
+    },
+    {
+        "title": "Case for 5G-aware video streaming applications",
+        "authors": [
+            "Eman Ramadan",
+            "Arvind Narayanan",
+            "Udhaya Kumar Dayalan",
+            "Rostand A. K. Fezeu",
+            "Feng Qian",
+            "Zhi-Li Zhang"
+        ],
+        "published": "August 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472771.3474036"
+    },
+    {
+        "title": "Hunting BGP zombies in the wild",
+        "authors": [
+            "Porapat Ongkanchana",
+            "Romain Fontugne",
+            "Hiroshi Esaki",
+            "Job Snijders",
+            "Emile Aben"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472315"
+    },
+    {
+        "title": "Meta-peering: towards automated ISP peer selection",
+        "authors": [
+            "Prasun Kanti Dey",
+            "Shahzeb Mustafa",
+            "Murat Yuksel"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472325"
+    },
+    {
+        "title": "Towards cross-layer telemetry",
+        "authors": [
+            "Justin Iurman",
+            "Frank Brockners",
+            "Benoit Donnet"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472313"
+    },
+    {
+        "title": "L, Q, R, and T: which spin bit cousin is here to stay?",
+        "authors": [
+            "Ike Kunze",
+            "Klaus Wehrle",
+            "Jan R\u00fcth"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472319"
+    },
+    {
+        "title": "On the evolution of internet flow characteristics",
+        "authors": [
+            "Simon Bauer",
+            "Benedikt Jaeger",
+            "Fabian Helfert",
+            "Philippe Barias",
+            "Georg Carle"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472321"
+    },
+    {
+        "title": "Detecting consumer IoT devices through the lens of an ISP",
+        "authors": [
+            "Said Jawad Saidi",
+            "Anna Maria Mandalari",
+            "Hamed Haddadi",
+            "Daniel J. Dubois",
+            "David Choffnes",
+            "Georgios Smaragdakis",
+            "Anja Feldmann"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472885"
+    },
+    {
+        "title": "Adaptive cheapest path first scheduling in a transport-layer multi-path tunnel context",
+        "authors": [
+            "Marcus Pieska",
+            "Alexander Rabitsch",
+            "Anna Brunstrom",
+            "Andreas Kassler",
+            "Markus Amend"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472316"
+    },
+    {
+        "title": "Leveraging the 0-RTT convert protocol to improve wi-fi/cellular convergence",
+        "authors": [
+            "Matthieu Baerts",
+            "Nicolas Keukeleire",
+            "Olivier Bonaventure"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472317"
+    },
+    {
+        "title": "Cooperative performance enhancement using QUIC tunneling in 5G cellular networks",
+        "authors": [
+            "Zsolt Kr\u00e4mer",
+            "Mirja K\u00fchlewind",
+            "Marcus Ihlar",
+            "Attila Mih\u00e1ly"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472320"
+    },
+    {
+        "title": "CCID5: an implementation of the BBR congestion control algorithm for DCCP and its impact over multi-path scenarios",
+        "authors": [
+            "Nathalie Romo Moreno",
+            "Markus Amend",
+            "Anna Brunstrom",
+            "Andreas Kassler",
+            "Veselin Rakocevic"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472322"
+    },
+    {
+        "title": "Toward greater scavenger congestion control deployment: implementations and interfaces",
+        "authors": [
+            "Tong Meng",
+            "Christopher Cai",
+            "Brighten Godfrey",
+            "Michael Schapira"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472323"
+    },
+    {
+        "title": "Encryption without centralization: distributing DNS queries across recursive resolvers",
+        "authors": [
+            "Austin Hounsel",
+            "Paul Schmitt",
+            "Kevin Borgolte",
+            "Nick Feamster"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472318"
+    },
+    {
+        "title": "Institutional privacy risks in sharing DNS data",
+        "authors": [
+            "Basileal Imana",
+            "Aleksandra Korolova",
+            "John Heidemann"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472324"
+    },
+    {
+        "title": "DNS-over-TCP considered vulnerable",
+        "authors": [
+            "Tianxiang Dai",
+            "Haya Shulman",
+            "Michael Waidner"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472884"
+    },
+    {
+        "title": "Manus manum lavat: media clients and servers cooperating with common media client/server data",
+        "authors": [
+            "Ali C. Begen"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472886"
+    },
+    {
+        "title": "Tools for disambiguating RFCs",
+        "authors": [
+            "Jane Yen",
+            "Ramesh Govindan",
+            "Barath Raghavan"
+        ],
+        "published": "July 2021",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3472305.3472314"
+    },
+    {
+        "title": "Enabling Privacy-Aware Zone Exchanges Among Authoritative and Recursive DNS Servers",
+        "authors": [
+            "Nikos Kostopoulos",
+            "Dimitris Kalogeras",
+            "Vasilis Maglaris"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406665"
+    },
+    {
+        "title": "Inferring the Deployment of Inbound Source Address Validation Using DNS Resolvers",
+        "authors": [
+            "Maciej Korczy\u0144ski",
+            "Yevheniya Nosyk",
+            "Qasim Lone",
+            "Marcin Skwarek",
+            "Baptiste Jonglez",
+            "Andrzej Duda"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406668"
+    },
+    {
+        "title": "Limiting the Power of RPKI Authorities",
+        "authors": [
+            "Kris Shrishak",
+            "Haya Shulman"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406674"
+    },
+    {
+        "title": "Withdrawal Symptoms: Filtering of Announcements from a Route Collector System",
+        "authors": [
+            "Stephen D. Strowes",
+            "Ren\u00e9 Wilhelm",
+            "Emile Aben"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406673"
+    },
+    {
+        "title": "Toward Programmable Interdomain Routing",
+        "authors": [
+            "Qiao Xiang",
+            "Jensen Zhang",
+            "Franck Le",
+            "Y. Richard Yang"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406672"
+    },
+    {
+        "title": "Parsing Protocol Standards to Parse Standard Protocols",
+        "authors": [
+            "Stephen McQuistin",
+            "Vivian Band",
+            "Dejice Jacob",
+            "Colin Perkins"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406671"
+    },
+    {
+        "title": "NeST: Network Stack Tester",
+        "authors": [
+            "Shanthanu S. Rai",
+            "Narayan G.",
+            "Dhanasekhar M.",
+            "Leslie Monis",
+            "Mohit P. Tahiliani"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406670"
+    },
+    {
+        "title": "Evaluating the Impact of Path Brokenness on TCP Options",
+        "authors": [
+            "Korian Edeline",
+            "Benoit Donnet"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406662"
+    },
+    {
+        "title": "A Congestion Control Independent L4S Scheduler",
+        "authors": [
+            "Szilveszter N\u00e1das",
+            "Gerg\u0151 Gombos",
+            "Ferenc Fejes",
+            "S\u00e1ndor Laki"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406669"
+    },
+    {
+        "title": "Multi-Domain Information Exposure using ALTO: The Good, the Bad and the Solution",
+        "authors": [
+            "Danny Lachos",
+            "Christian Rothenberg",
+            "Qiao Xiang",
+            "Y. Richard Yang",
+            "B\u00f6rje Ohlman",
+            "Sabine Randriamasy"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406667"
+    },
+    {
+        "title": "A novel hybrid distributed-routing and SDN solution for Traffic Engineering",
+        "authors": [
+            "Stewart Bryant",
+            "Uma Chunduri",
+            "Toerless Eckert",
+            "Alexander Clemm",
+            "Luis M. Contreras",
+            "Patricia D\u00edez Cano"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406666"
+    },
+    {
+        "title": "Debugging QUIC and HTTP/3 with qlog and qvis",
+        "authors": [
+            "Robin Marx",
+            "Maxime Piraux",
+            "Peter Quax",
+            "Wim Lamotte"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406663"
+    },
+    {
+        "title": "On the Accuracy of Country-Level IP Geolocation",
+        "authors": [
+            "Ioana Livadariu",
+            "Thomas Dreibholz",
+            "Anas Saeed Al-Selwi",
+            "Haakon Bryhni",
+            "Olav Lysne",
+            "Steinar Bj\u00f8rnstad",
+            "Ahmed Elmokashfi"
+        ],
+        "published": "July 2020",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3404868.3406664"
+    },
+    {
+        "title": "A performance perspective on web optimized protocol stacks: TCP+TLS+HTTP/2 vs. QUIC",
+        "authors": [
+            "Konrad Wolsing",
+            "Jan R\u00fcth",
+            "Klaus Wehrle",
+            "Oliver Hohlfeld"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341123"
+    },
+    {
+        "title": "Performance measurements of QUIC communications",
+        "authors": [
+            "Fabio Bulgarella",
+            "Mauro Cociglio",
+            "Giuseppe Fioccola",
+            "Guido Marchetto",
+            "Riccardo Sisto"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341127"
+    },
+    {
+        "title": "Who is answering my queries: understanding and characterizing interception of the DNS resolution path",
+        "authors": [
+            "Baojun Liu",
+            "Chaoyi Lu",
+            "Haixin Duan",
+            "Ying Liu",
+            "Zhou Li",
+            "Shuang Hao",
+            "Min Yang"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341122"
+    },
+    {
+        "title": "Oblivious DNS: practical privacy for DNS queries: published in PoPETS 2019",
+        "authors": [
+            "Paul Schmitt",
+            "Anne Edmundson",
+            "Allison Mankin",
+            "Nick Feamster"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341128"
+    },
+    {
+        "title": "Analyzing the costs (and benefits) of DNS, DoT, and DoH for the modern web",
+        "authors": [
+            "Austin Hounsel",
+            "Kevin Borgolte",
+            "Paul Schmitt",
+            "Jordan Holland",
+            "Nick Feamster"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341129"
+    },
+    {
+        "title": "Securing IPv6 neighbor discovery and SLAAC in access networks through SDN",
+        "authors": [
+            "Daniel Nelle",
+            "Thomas Scheffler"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341132"
+    },
+    {
+        "title": "Towards core-stateless fairness on multiple timescales",
+        "authors": [
+            "Szilveszter N\u00e1das",
+            "Gerg\u0151 Gombos",
+            "Ferenc Fejes",
+            "S\u00e1ndor Laki"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341124"
+    },
+    {
+        "title": "What time is it: managing time in the internet",
+        "authors": [
+            "Sathiya Kumaran Mani",
+            "Paul Barford",
+            "Ramakrishnan Durairajan",
+            "Joel Sommers"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341125"
+    },
+    {
+        "title": "What can you learn from an IP?",
+        "authors": [
+            "Simran Patil",
+            "Nikita Borisov"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341133"
+    },
+    {
+        "title": "Can we containerize internet measurements?",
+        "authors": [
+            "Chris Misa",
+            "Sudarsun Kannan",
+            "Ramakrishnan Durairajan"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341130"
+    },
+    {
+        "title": "Supporting multi-domain Use cases with ALTO",
+        "authors": [
+            "Danny Lachos",
+            "Christian Rothenberg",
+            "Qiao Xiang",
+            "Y. Richard Yang",
+            "B\u00f6rje Ohlman",
+            "Sabine Randriamasy",
+            "Farni Boten",
+            "Luis M. Contreras"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341126"
+    },
+    {
+        "title": "mmb: flexible high-speed userspace middleboxes",
+        "authors": [
+            "Korian Edeline",
+            "Justin Iurman",
+            "Cyril Soldani",
+            "Benoit Donnet"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341121"
+    },
+    {
+        "title": "Checking-in on network functions",
+        "authors": [
+            "Zeeshan Lakhani",
+            "Heather Miller"
+        ],
+        "published": "July 2019",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3340301.3341131"
+    },
+    {
+        "title": "Measuring Adoption of Security Additions to the HTTPS Ecosystem",
+        "authors": [
+            "Quirin Scheitle",
+            "Taejoong Chung",
+            "Johanna Amann",
+            "Oliver Gasser",
+            "Lexi Brent",
+            "Georg Carle",
+            "Ralph Holz"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232756"
+    },
+    {
+        "title": "Push Away Your Privacy: Precise User Tracking Based on TLS Client Certificate Authentication",
+        "authors": [
+            "Matthias Wachs",
+            "Quirin Scheitle",
+            "Georg Carle"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232763"
+    },
+    {
+        "title": "Cloud Strife: Mitigating the Security Risks of Domain-Validated Certificates",
+        "authors": [
+            "Kevin Borgolte",
+            "Tobias Fiebig",
+            "Shuang Hao",
+            "Christopher Kruegel",
+            "Giovanni Vigna"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232859"
+    },
+    {
+        "title": "Studying TLS Usage in Android Apps",
+        "authors": [
+            "Abbas Razaghpanah",
+            "Arian Akhavan Niaki",
+            "Narseo Vallina-Rodriguez",
+            "Srikanth Sundaresan",
+            "Johanna Amann"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232779"
+    },
+    {
+        "title": "ARTEMIS: Neutralizing BGP Hijacking within a Minute",
+        "authors": [
+            "Pavlos Sermpezis",
+            "Vasileios Kotronis",
+            "Petros Gigis",
+            "Xenofontas Dimitropoulos",
+            "Danilo Cicalese",
+            "Alistair King",
+            "Alberto Dainotti"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3234554"
+    },
+    {
+        "title": "Towards a Rigorous Methodology for Measuring Adoption of RPKI Route Validation and Filtering",
+        "authors": [
+            "Andreas Reuter",
+            "Randy Bush",
+            "Italo Cunha",
+            "Ethan Katz-Bassett",
+            "Thomas C. Schmidt",
+            "Matthias W\u00e4hlisch"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232771"
+    },
+    {
+        "title": "Beyond Binary Failures in Networks",
+        "authors": [
+            "Rachee Singh",
+            "Manya Ghobadi",
+            "Klaus-Tycho Foerster",
+            "Mark Filer",
+            "Phillipa Gill"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232759"
+    },
+    {
+        "title": "Lights Out: Climate Change Risk to Internet Infrastructure",
+        "authors": [
+            "Ramakrishnan Durairajan",
+            "Carol Barford",
+            "Paul Barford"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232775"
+    },
+    {
+        "title": "Comments On DNS Robustness",
+        "authors": [
+            "Mark Allman"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232773"
+    },
+    {
+        "title": "Preventing (Network) Time Travel with Chronos",
+        "authors": [
+            "Neta Rozen Schiff",
+            "Michael Schapira",
+            "Danny Dolev",
+            "Omer Deutsch"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232766"
+    },
+    {
+        "title": "TCP Congestion Signatures",
+        "authors": [
+            "Srikanth Sundaresan",
+            "Amogh Dhamdhere",
+            "Mark Allman",
+            "kc claffy"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232760"
+    },
+    {
+        "title": "Copa: Practical Delay-Based Congestion Control for the Internet",
+        "authors": [
+            "Venkat Arun",
+            "Hari Balakrishnan"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232783"
+    },
+    {
+        "title": "Why (and How) Networks Should Run Themselves",
+        "authors": [
+            "Nick Feamster",
+            "Jennifer Rexford"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3234555"
+    },
+    {
+        "title": "Semi-Oblivious Traffic Engineering with SMORE",
+        "authors": [
+            "Praveen Kumar",
+            "Yang Yuan",
+            "Chris Yu",
+            "Nate Foster",
+            "Robert Kleinberg",
+            "Petr Lapukhov",
+            "Chiun Lin Lim",
+            "Robert Soul\u00e9"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232781"
+    },
+    {
+        "title": "An ISP-Scale Deployment of TapDance",
+        "authors": [
+            "Sergey Frolov",
+            "Eric Wustrow",
+            "Fred Douglas",
+            "Will Scott",
+            "Allison McDonald",
+            "Benjamin VanderSloot",
+            "Rod Hynes"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232787"
+    },
+    {
+        "title": "Characterizing the Nature and Dynamics of Tor Exit Blocking",
+        "authors": [
+            "Rachee Singh",
+            "Rishab Nithyanand",
+            "Sadia Afroz",
+            "Paul Pearce",
+            "Michael Carl Tschantz",
+            "Phillipa Gill",
+            "Vern Paxson"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232786"
+    },
+    {
+        "title": "CommunityWatch: The Swiss-Army Knife of BGP Anomaly Detection",
+        "authors": [
+            "Vasileios Giotsas"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232858"
+    },
+    {
+        "title": "Restructuring Endpoint Congestion Control",
+        "authors": [
+            "Akshay Narayan",
+            "Frank Cangialosi",
+            "Deepti Raghavan",
+            "Prateesh Goyal",
+            "Srinivas Narayana",
+            "Radhika Mittal"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232770"
+    },
+    {
+        "title": "A Fine-grained and Transparent Congestion Control Enforcement Scheme",
+        "authors": [
+            "Yuxiang Zhang",
+            "Lin Cui",
+            "Fung Po Tso",
+            "Quanlong Guan",
+            "Weijia Jia",
+            "Jipeng Zhou"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232778"
+    },
+    {
+        "title": "Picking a Partner: A Fair Blockchain Based Scoring Protocol for Autonomous Systems",
+        "authors": [
+            "Yousef Alowayed",
+            "Marco Canini",
+            "Pedro Marcos",
+            "Marco Chiesa",
+            "Marinho Barcellos"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232785"
+    },
+    {
+        "title": "Wireless Edge Network for Sustainable Rural Community Networks",
+        "authors": [
+            "Adisorn Lertsinsrubtavee",
+            "Nunthaphat Weshsuwannarugs",
+            "Nisarat Tansakul",
+            "Attaphongse Taparugssanagorn",
+            "Kanchana Kanchanasut"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232782"
+    },
+    {
+        "title": "Is CoAP Congestion Safe?",
+        "authors": [
+            "Ilpo J\u00e4rvinen",
+            "Iivo Raitahila",
+            "Zhen Cao",
+            "Markku Kojo"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232857"
+    },
+    {
+        "title": "DeadBolt: Securing IoT Deployments",
+        "authors": [
+            "Ronny Ko",
+            "James Mickens"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232774"
+    },
+    {
+        "title": "Behind the scenes: what device benchmarks can tell us",
+        "authors": [
+            "Simon Bauer",
+            "Daniel Raumer",
+            "Paul Emmerich",
+            "Georg Carle"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232776"
+    },
+    {
+        "title": "Building a Threshold Cryptographic Distributed HSM with Docker Containers",
+        "authors": [
+            "Caterina Munoz",
+            "Francisco Montoto",
+            "Francisco Cifuentes",
+            "Javier Bustos-Jim\u00e9nez"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232761"
+    },
+    {
+        "title": "Metrics for access network selection",
+        "authors": [
+            "Theresa Enghardt",
+            "Philipp S. Tiesel",
+            "Anja Feldmann"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232764"
+    },
+    {
+        "title": "Practical Challenge-Response for DNS",
+        "authors": [
+            "Rami Al-Dalky",
+            "Michael Rabinovich",
+            "Mark Allman"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232765"
+    },
+    {
+        "title": "Elasticity Detection: A Building Block for Delay-Sensitive Congestion Control",
+        "authors": [
+            "Prateesh Goyal",
+            "Akshay Narayan",
+            "Frank Cangialosi",
+            "Deepti Raghavan",
+            "Srinivas Narayana",
+            "Mohammad Alizadeh"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232772"
+    },
+    {
+        "title": "RobE: Robust Connection Establishment for Multipath TCP",
+        "authors": [
+            "Markus Amend",
+            "Veselin Rakocevic",
+            "Andreas Philipp Matz",
+            "Eckard Bogenfeld"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232762"
+    },
+    {
+        "title": "Measuring Web Speed From Passive Traces",
+        "authors": [
+            "Martino Trevisan",
+            "Idilio Drago",
+            "Marco Mellia"
+        ],
+        "published": "July 2018",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3232755.3232780"
+    },
+    {
+        "title": "Measurement Vantage Point Selection Using A Similarity Metric",
+        "authors": [
+            "Thomas Holterbach",
+            "Emile Aben",
+            "Cristel Pelsser",
+            "Randy Bush",
+            "Laurent Vanbever"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106334"
+    },
+    {
+        "title": "Characterizing User-to-User Connectivity with RIPE Atlas",
+        "authors": [
+            "Petros Gigis",
+            "Vasileios Kotronis",
+            "Emile Aben",
+            "Stephen D. Strowes",
+            "Xenofontas Dimitropoulos"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106332"
+    },
+    {
+        "title": "CheesePi: Research, Results, and the Regulator",
+        "authors": [
+            "Ian Marsh"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106337"
+    },
+    {
+        "title": "copycat: Testing Differential Treatment of New Transport Protocols in the Wild",
+        "authors": [
+            "Korian Edeline",
+            "Mirja K\u00fchlewind",
+            "Brian Trammell",
+            "Benoit Donnet"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106330"
+    },
+    {
+        "title": "Tracking transport-layer evolution with PATHspider",
+        "authors": [
+            "Brian Trammell",
+            "Mirja K\u00fchlewind",
+            "Piet De Vaere",
+            "Iain R. Learmonth",
+            "Gorry Fairhurst"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106336"
+    },
+    {
+        "title": "Take your own share of the PIE",
+        "authors": [
+            "S\u00e1ndor Laki",
+            "Gerg\u0151 Gombos",
+            "Szilveszter N\u00e1das",
+            "Zolt\u00e1n Tur\u00e1nyi"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106333"
+    },
+    {
+        "title": "A NEAT Way to Browse the Web",
+        "authors": [
+            "Felix Weinrank",
+            "Karl-Johan Grinnemo",
+            "Zdravko Bozakov",
+            "Anna Brunstrom",
+            "Thomas Dreibholz",
+            "Gorry Fairhurst",
+            "Per Hurtig"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106335"
+    },
+    {
+        "title": "Implementing IPv6 Segment Routing in the Linux Kernel",
+        "authors": [
+            "David Lebrun",
+            "Olivier Bonaventure"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106329"
+    },
+    {
+        "title": "Manage resource-constrained IoT devices through dynamically generated and deployed YANG models",
+        "authors": [
+            "Thomas Scheffler",
+            "Olaf Bonne\u00df"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106331"
+    },
+    {
+        "title": "No domain left behind: is Let's Encrypt democratizing encryption?",
+        "authors": [
+            "Maarten Aertsen",
+            "Maciej Korczy\u0144ski",
+            "Giovane C. M. Moura",
+            "Samaneh Tajalizadehkhoob",
+            "Jan van den Berg"
+        ],
+        "published": "July 2017",
+        "link": "https://doi-org.proxy2.library.illinois.edu/10.1145/3106328.3106338"
+    }
+]
